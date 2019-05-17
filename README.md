@@ -1,4 +1,4 @@
-#Marvel Avengers Quiz App
+#Bloc Jams
 ### Description
 Bloc Jams is an application that emulates a Music Player Prototype. Bloc Jams is a jQuery project created to get familiar with the existing code, and use jQuery to insert information into the DOM. 
 
